@@ -5,3 +5,4 @@ MASTER_KEY=<%= masterKey %>
 <%_ if (typeof jwtSecret !== 'undefined' && jwtSecret) { _%>
 JWT_SECRET=<%= jwtSecret %>
 <%_ } _%>
+TOKEN_EXP=30m
