@@ -1,12 +1,12 @@
 {
-  "name": "generator-rest",
-  "version": "0.16.1",
-  "description": "RESTful API generator using NodeJS, Express and MongoDB. Watch https://youtu.be/6x-ijyG-ack",
-  "homepage": "https://github.com/diegohaz/generator-rest",
+  "name": "generator-vuetify-rest-api",
+  "version": "0.0.1",
+  "description": "RESTful API generator using NodeJS, Express and MongoDB.",
+  "homepage": "https://github.com/res63661/generator-vuetify-rest-api",
   "author": {
-    "name": "Diego Haz",
-    "email": "hazdiego@gmail.com",
-    "url": "https://github.com/diegohaz"
+    "name": "Richard Strickland",
+    "email": "res63661@gmail.com",
+    "url": "https://github.com/res63661"
   },
   "files": [
     "generators"
